@@ -1,0 +1,9 @@
+C:\Users\Utente\source\repos\Carrello\Carrello\bin\Debug\Carrello.exe.config
+C:\Users\Utente\source\repos\Carrello\Carrello\bin\Debug\Carrello.exe
+C:\Users\Utente\source\repos\Carrello\Carrello\bin\Debug\Carrello.pdb
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.Resource1.resources
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.exe
+C:\Users\Utente\source\repos\Carrello\Carrello\obj\Debug\Carrello.pdb
